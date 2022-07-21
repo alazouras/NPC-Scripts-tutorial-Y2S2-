@@ -3,7 +3,7 @@ Tutorial for how the NPC scripts work in '3D Blocks...' (year 2 semester 2 work)
 
 For this tutorial, we need two scripts; one I called NpcMovement (for getting the NPCs to move around the map) and one called RangeToStop (to track when and why the NPC may stop along the way).
 
-# 1) MpcMovement script
+# 1) NpcMovement script
 To start with, for this script we need the following components:
 
 ![image](https://user-images.githubusercontent.com/91538155/180267028-cdd15e3c-e227-47b6-8020-9bb953dfd953.png)
